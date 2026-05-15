@@ -12,7 +12,12 @@ If you want a quick walkthrough before opening the notebook, use the media and s
 - Main notebook: [notebooks/EDA_NYC_Taxi_Analysis_Vinod_Khadka.ipynb](notebooks/EDA_NYC_Taxi_Analysis_Vinod_Khadka.ipynb)
 - PDF report: [reports/EDA_NYC_Taxi_Analysis_Vinod_Khadka.pdf](reports/EDA_NYC_Taxi_Analysis_Vinod_Khadka.pdf)
 
-[![Open the NYC Taxi EDA walkthrough video](assets/plots/zone-wise-trip-map.png)](assets/media/videoplayback.mp4)
+<video src="assets/media/videoplayback.mp4" controls width="100%">
+  Your browser does not support the video tag. Open the
+  <a href="assets/media/videoplayback.mp4">walkthrough video</a>.
+</video>
+
+[If the inline player does not render on GitHub, open the walkthrough video directly.](assets/media/videoplayback.mp4)
 
 ## Project Overview
 
