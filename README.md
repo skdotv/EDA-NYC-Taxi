@@ -4,6 +4,16 @@ Technical exploratory data analysis of 2023 NYC Yellow Taxi trip records, built 
 
 This public repository intentionally excludes parquet trip data from version control.
 
+## Start Here
+
+If you want a quick walkthrough before opening the notebook, use the media and summary artifacts first:
+
+- Video walkthrough: [assets/media/videoplayback.mp4](assets/media/videoplayback.mp4)
+- Main notebook: [notebooks/EDA_NYC_Taxi_Analysis_Vinod_Khadka.ipynb](notebooks/EDA_NYC_Taxi_Analysis_Vinod_Khadka.ipynb)
+- PDF report: [reports/EDA_NYC_Taxi_Analysis_Vinod_Khadka.pdf](reports/EDA_NYC_Taxi_Analysis_Vinod_Khadka.pdf)
+
+[![Open the NYC Taxi EDA walkthrough video](assets/plots/zone-wise-trip-map.png)](assets/media/videoplayback.mp4)
+
 ## Project Overview
 
 This project analyzes operational, financial, temporal, and geospatial patterns in New York City Yellow Taxi trips. The goal is to turn raw trip records into decisions a taxi operator could actually use:
