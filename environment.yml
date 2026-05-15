@@ -1,0 +1,16 @@
+name: nyc-taxi-eda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas=2.2
+  - matplotlib=3.10
+  - seaborn=0.13
+  - geopandas
+  - pyarrow
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - pip
+
