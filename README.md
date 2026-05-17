@@ -1,4 +1,4 @@
-# NYC Yellow Taxi EDA Project
+# NYC Yellow Taxi EDA 
 
 Technical exploratory data analysis of 2023 NYC Yellow Taxi trip records, built as a notebook-first project.
 
